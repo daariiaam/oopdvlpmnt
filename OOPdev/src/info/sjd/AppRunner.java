@@ -2,9 +2,9 @@ package info.sjd;
 
 import java.util.logging.Logger;
 
-import info.sjd.square.Circle;
+import info.sjd.circle.Circle;
 import info.sjd.square.Square;
-import info.sjd.square.Triangle;
+import info.sjd.triangle.Triangle;
 
 public class AppRunner {
 	

@@ -1,4 +1,4 @@
-package info.sjd.square;
+package info.sjd.triangle;
 
 import info.sjd.AbstractShape;
 
